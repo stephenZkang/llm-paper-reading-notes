@@ -26,8 +26,6 @@
 ### a. 李飞飞团队 (?篇)
 
 | # | 论文标题 (Title) | 作者 & 年份                                           |   状态    |                  我的笔记                   |
-|::|:---|:--------------------------------------------------|:-------:|:---------------------------------------:|
-| 1 | [WorldScore: A Unified Evaluation Benchmark for World Generation](https://arxiv.org/abs/2504.00983) | Haoyi Duan, Hong-Xing Yu, Sirui Chen, Li Fei-Fei, Jiajun Wu,<br /> 2025 |  ✅ 已读   | [笔记](notes/lifeifei/001-world-score.md) |
-| 2 | [4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models](https://arxiv.org/abs/2406.07472) | Heng Yu, Chaoyang Wang, Peiye Zhuang, Willi Menapace, Aliaksandr Siarohin, Junli Cao, Laszlo A Jeni, Sergey Tulyakov, Hsin-Ying Lee,<br /> 2025 |  ✅ 已读   | [笔记](notes/lifeifei/001-world-score.md) |
-
-
+|:-:|:---|:--------------------------------------------------|:-------:|:---------------------------------------:|
+| 1 | [WorldScore: A Unified Evaluation Benchmark for World Generation](https://arxiv.org/abs/2504.00983) | Haoyi Duan,<br /> 2025 |  ✅ 已读   | [笔记](notes/lifeifei/001-world-score.md) |
+| 2 | [4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models](https://arxiv.org/abs/2406.07472) | Heng Yu, Chaoyang Wang,<br /> 2025 |  ✅ 已读   | [笔记](notes/lifeifei/002-4real.md) |
