@@ -1,4 +1,4 @@
-# 每周推荐论文精读 (LLM-Paper-Reading-Notes)
+# LLM 论文精读 (LLM-Paper-Reading-Notes)
 
 本仓库整理了自己阅读相关LLM的论文，旨在为自己记录阅读推荐相关论文。
 
