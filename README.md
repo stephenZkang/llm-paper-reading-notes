@@ -33,5 +33,5 @@
 | 4  | [3D-LLM: Injecting the 3D World into Large Language Models](https://arxiv.org/abs/2307.12981)                                | Yining Hong, Haoyu Zhen,<br /> 2024     | ⬜️ 未读 | [笔记](notes/lifeifei/004-4real.md)    |
 | 5  | [A Survey: Learning Embodied Intelligence from Physical Simulators and World Models](https://arxiv.org/abs/2507.00917)       | Xiaoxiao Long, Qingrui Zhao,<br /> 2024 | ⬜️ 未读 | [笔记](notes/lifeifei/005-4real.md)    |
 | 6  | [Spatial Mental Modeling from Limited Views](https://arxiv.org/abs/2506.21458)                                               | Baiqiao Yin, Li Fei-Fei,<br /> 2025     | ✅ 已读 | [笔记](notes/lifeifei/006-mind-cube.md)    |
-| 7  | [Model-Based Reinforcement Learning via Meta-Policy Optimization](https://arxiv.org/abs/1809.05214)                          | Clavera et al, 2018                     | ⬜️ 未读 | [笔记](notes/lifeifei/007-mb-mpo.md) |
+| 7  | [Model-Based Reinforcement Learning via Meta-Policy Optimization](https://arxiv.org/abs/1809.05214)                          | Clavera et al, 2018                     | ✅ 已读 | [笔记](notes/lifeifei/007-mb-mpo.md) |
 | 8  | [Recurrent World Models Facilitate Policy Evolution](https://arxiv.org/abs/1809.01999)                                       | Ha & Schmidhuber, 2018                  | ⬜️ 未读 | [笔记](./notes/065-world-models.md) |
