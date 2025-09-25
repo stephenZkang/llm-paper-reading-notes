@@ -4,6 +4,7 @@ lifeifei
 003-thinking-in-space.md
 006-mind-cube.md
 007-mb-mpo.md
+008-MDN-RNN.md
 
 
 meta

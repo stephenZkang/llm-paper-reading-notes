@@ -25,19 +25,19 @@
 
 ### a. 李飞飞团队 (?篇)
 
-| # | 论文标题 (Title)                                                                                                                 | 作者 & 年份                                 |  状态   |                  我的笔记                   |
-|:-:|:-----------------------------------------------------------------------------------------------------------------------------|:----------------------------------------|:-----:|:---------------------------------------:|
-| 1 | [WorldScore: A Unified Evaluation Benchmark for World Generation](https://arxiv.org/abs/2504.00983)                          | Haoyi Duan,<br /> 2025                  | ✅ 已读 | [笔记](notes/lifeifei/001-world-score.md) |
-| 2 | [4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models](https://arxiv.org/abs/2406.07472)             | Heng Yu, Chaoyang Wang,<br /> 2025      | ✅ 已读 | [笔记](notes/lifeifei/002-4real.md)    |
-| 3 | [Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces](https://arxiv.org/abs/2412.14171) | Jihan Yang, Shusheng Yang,<br /> 2025   | ✅ 已读 | [笔记](notes/lifeifei/003-thinking-in-space.md)    |
-| 4 | [3D-LLM: Injecting the 3D World into Large Language Models](https://arxiv.org/abs/2307.12981)                                | Yining Hong, Haoyu Zhen,<br /> 2024     | ⬜️ 未读 | [笔记](notes/lifeifei/004-4real.md)    |
-| 5 | [A Survey: Learning Embodied Intelligence from Physical Simulators and World Models](https://arxiv.org/abs/2507.00917)       | Xiaoxiao Long, Qingrui Zhao,<br /> 2024 | ⬜️ 未读 | [笔记](notes/lifeifei/005-4real.md)    |
-| 6 | [Spatial Mental Modeling from Limited Views](https://arxiv.org/abs/2506.21458)                                               | Baiqiao Yin, Li Fei-Fei,<br /> 2025     | ✅ 已读 | [笔记](notes/lifeifei/006-mind-cube.md)    |
-| 7 | [Model-Based Reinforcement Learning via Meta-Policy Optimization](https://arxiv.org/abs/1809.05214)                          | Clavera et al, 2018                     | ✅ 已读 | [笔记](notes/lifeifei/007-mb-mpo.md) |
-| 8 | [Recurrent World Models Facilitate Policy Evolution](https://arxiv.org/abs/1809.01999)                                       | Ha & Schmidhuber, 2018                  | ⬜️ 未读 | [笔记](./notes/065-world-models.md) |
+| # | 论文标题 (Title)                                                                                                                                                     | 作者 & 年份                                 |  状态   |                  我的笔记                   |
+|:-:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------|:-----:|:---------------------------------------:|
+| 1 | [WorldScore: A Unified Evaluation Benchmark for World Generation](https://arxiv.org/abs/2504.00983)<br/>论文核心：WorldScore：世界生成统一评估基准                               | Haoyi Duan,<br /> 2025                  | ✅ 已读  | [笔记](notes/lifeifei/001-world-score.md) |
+| 2 | [4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models](https://arxiv.org/abs/2406.07472) <br/>论文核心：4Real：文本到照片级4D场景生成框架                  | Heng Yu, Chaoyang Wang,<br /> 2025      | ✅ 已读  | [笔记](notes/lifeifei/002-4real.md)    |
+| 3 | [Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces](https://arxiv.org/abs/2412.14171)<br/>论文核心：VSI-Bench：MLLMs视觉空间智能评估与分析 | Jihan Yang, Shusheng Yang,<br /> 2025   | ✅ 已读  | [笔记](notes/lifeifei/003-thinking-in-space.md)    |
+| 4 | [3D-LLM: Injecting the 3D World into Large Language Models](https://arxiv.org/abs/2307.12981)                                                                    | Yining Hong, Haoyu Zhen,<br /> 2024     | ⬜️ 未读 | [笔记](notes/lifeifei/004-4real.md)    |
+| 5 | [A Survey: Learning Embodied Intelligence from Physical Simulators and World Models](https://arxiv.org/abs/2507.00917)                                           | Xiaoxiao Long, Qingrui Zhao,<br /> 2024 | ⬜️ 未读 | [笔记](notes/lifeifei/005-4real.md)    |
+| 6 | [Spatial Mental Modeling from Limited Views](https://arxiv.org/abs/2506.21458)  <br/> 论文核心：MINDCUBE：VLM空间心智模型评估与优化                                               | Baiqiao Yin, Li Fei-Fei,<br /> 2025     | ✅ 已读  | [笔记](notes/lifeifei/006-mind-cube.md)    |
+| 7 | [Model-Based Reinforcement Learning via Meta-Policy Optimization](https://arxiv.org/abs/1809.05214) <br/> 论文核心：MB-MPO：模型基元策略优化                                   | Clavera et al, 2018                     | ✅ 已读  | [笔记](notes/lifeifei/007-mb-mpo.md) |
+| 8 | [Recurrent World Models Facilitate Policy Evolution](https://arxiv.org/abs/1809.01999) <br/> 论文核心：混合密度网络 - 循环神经网络                                                | Ha & Schmidhuber, 2018                  | ✅ 已读  | [笔记](./notes/lifeifei/008-MDN-RNN.md) |
 
 ### a. Meta团队 (?篇)
 
-| # | 论文标题 (Title)                                                                                                                 | 作者 & 年份       |  状态   |                我的笔记                 |
-|:-:|:-----------------------------------------------------------------------------------------------------------------------------|:--------------|:-----:|:-----------------------------------:|
-| 1 | [RecoWorld: Building Simulated Environments for Agentic Recommender Systems](https://arxiv.org/abs/2509.10397)               | Fei Liu, 2025 | ✅ 已读 | [笔记](./notes/meta/001-RecoWorld.md) |
+| # | 论文标题 (Title)                                                                                                                                  | 作者 & 年份       |  状态   |                我的笔记                 |
+|:-:|:----------------------------------------------------------------------------------------------------------------------------------------------|:--------------|:-----:|:-----------------------------------:|
+| 1 | [RecoWorld: Building Simulated Environments for Agentic Recommender Systems](https://arxiv.org/abs/2509.10397)<br/>论文核心：RecoWorld：智能推荐系统模拟环境  | Fei Liu, 2025 | ✅ 已读 | [笔记](./notes/meta/001-RecoWorld.md) |
